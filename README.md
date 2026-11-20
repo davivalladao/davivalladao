@@ -6,7 +6,7 @@ I work on optimization under uncertainty, risk analysis, and machine learning, w
 
 ## Research software
 
-Selected open-source projects developed with students and collaborators at [LAMPS/PUC-Rio](https://github.com/LAMPSPUC):
+Research software developed by students under my academic supervision, in collaboration with researchers at [LAMPS/PUC-Rio](https://github.com/LAMPSPUC):
 
 | Project | Focus |
 | --- | --- |
